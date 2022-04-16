@@ -1,11 +1,11 @@
 import React from 'react';
 
-const Coins = () => {
+const BdAddress = () => {
     return (
         <div>
-            <h1>Coins page</h1>
+
         </div>
     );
 };
 
-export default Coins;
+export default BdAddress;
